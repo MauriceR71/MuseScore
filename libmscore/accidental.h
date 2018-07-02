@@ -12,6 +12,7 @@
 
 #ifndef __ACCIDENTAL_H__
 #define __ACCIDENTAL_H__
+#define __ACCIDENTAL_VAL_H__
 
 /**
  \file
